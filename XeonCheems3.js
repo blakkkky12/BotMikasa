@@ -1635,7 +1635,7 @@ XeonBotInc.sendMessage(from, { react: { text: `${global.reactmoji}`, key: m.key 
                         XeonBotInc.send5ButMsg(m.chat, menulist, global.botname, btn)
                         } else if (setbot.templateDocument) {
                         let buttonmenu = [
-        	{ urlButton: { displayText: `My YouTube`, url : `${websitex}` } },
+        	{ urlButton: { displayText: `My Instagram`, url : `${websitex}` } },
             { urlButton: { displayText: `Source Code`, url: `${botscript}` } },
             { quickReplyButton: { displayText: `All Menu`, id: 'allmenu'} },
             { quickReplyButton: { displayText: `List Menu`, id: 'command'} },

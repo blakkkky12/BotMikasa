@@ -5704,6 +5704,7 @@ case 'antiviewonce': case 'antionce':
   await XeonBotInc.sendButtonText(m.chat, buttonsntilink, `Please click the button below\n\nOn to enable\nOff to disable`, `${global.botname}`, m)
   }
   break
+
 case 'lovesticker':
 case 'lovestick' :{
 	            	            	if (isBan) return reply(mess.ban)

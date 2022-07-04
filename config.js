@@ -53,14 +53,14 @@ global.websitex = "https://instagram.com/arrhmdfauzan_?igshid=YmMyMTA2M2Y=" //ur
 global.vidmenu = { url: 'https://a.uguu.se/eFNTvNt.mp4' } //gif and video menu
 global.packname = "©Mikasa||Ackerman"
 global.author = "Nazuaff"
-global.themeemoji = "🐶"
+global.themeemoji = "👻"
 global.reactmoji = "🗿"
 global.ownertag = ['fauzan'] //ur owner tag
 global.ownernummenu = ['6281365681189'] //ur owner number in menu and all
 global.watermark = "MikasaBotz" //ur watermark
-global.botscript = "https://youtu.be/Gr6yuCbSGTI"
-global.linkz1 = "https://chat.whatsapp.com/F6CAAOhrORm1sPdq6cRKAS"
-global.linkz2 = "https://youtube.com/channel/UC1ikkqsPvtWuE_QonsET1yg"
+global.botscript = "https://instagram.com/arrhmdfauzan_?igshid=YmMyMTA2M2Y"
+global.linkz1 = "https://chat.whatsapp.com/FBYIVNcIw2gCAXZWyjNBjw"
+global.linkz2 = "https://instagram.com/arrhmdfauzan_?igshid=YmMyMTA2M2Y"
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic

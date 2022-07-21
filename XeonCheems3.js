@@ -1651,7 +1651,7 @@ if (isBan) return reply(mess.ban)
 if (isBanChat) return reply(mess.banChat)
 XeonBotInc.sendMessage(from, { react: { text: `${global.reactmoji}`, key: m.key }})
 let buttonmenu = [
-        	{ urlButton: { displayText: `My YouTube`, url : `${websitex}` } },
+        	{ urlButton: { displayText: `My Instagram`, url : `${websitex}` } },
             { urlButton: { displayText: `Source Code`, url: `${botscript}` } },
             { quickReplyButton: { displayText: `All Menu`, id: 'allmenu'} },
             { quickReplyButton: { displayText: `List Menu`, id: 'command'} },

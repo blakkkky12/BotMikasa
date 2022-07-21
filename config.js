@@ -55,7 +55,7 @@ global.packname = "©Mikasa||Ackerman"
 global.author = "Nazuaff"
 global.themeemoji = "👻"
 global.reactmoji = "🗿"
-global.ownertag = ['fauzan'] //ur owner tag
+global.ownertag = ['zan'] //ur owner tag
 global.ownernummenu = ['6281365681189'] //ur owner number in menu and all
 global.watermark = "MikasaBotz" //ur watermark
 global.botscript = "https://instagram.com/arrhmdfauzan_?igshid=YmMyMTA2M2Y"

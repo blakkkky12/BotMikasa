@@ -5516,7 +5516,7 @@ reply('Successful Change To Self Usage')
 XeonBotInc.setStatus(`Mode : Self`)
 }
 break
-case 'speed': case 'p': case 'ping': case 'botstatus': case 'statusbot': {
+case 'speed':case 'ping': case 'botstatus': case 'statusbot': {
    if (isBan) return reply(mess.ban)	 			
 if (isBanChat) return reply(mess.banChat)
 const used = process.memoryUsage()

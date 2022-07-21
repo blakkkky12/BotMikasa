@@ -9315,7 +9315,7 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
 										{
 										"title": "Maker Menu 🌈",
 										"description": "Displays The List Of Logo Making Features",
-										"rowId": `${prefix}indomenu`
+										"rowId": `${prefix}makermenu`
 									},
 									{
 										"title": "Sound Menu 🎵",

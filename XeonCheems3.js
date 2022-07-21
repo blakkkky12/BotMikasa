@@ -9149,7 +9149,7 @@ for (let i of anu) {
 await sleep(1500)
 let btn = [{
 urlButton: {
-displayText: 'YouTube 🍓',
+displayText: 'Instagram 🍓',
 url: `${global.websitex}`
 }
 }, {
@@ -9190,7 +9190,7 @@ for (let yoi of anu) {
 await sleep(1500)
 let btn = [{
 urlButton: {
-displayText: 'YouTube 🍓',
+displayText: 'Instagram 🍓',
 url: `${global.websitex}`
 }
 }, {
